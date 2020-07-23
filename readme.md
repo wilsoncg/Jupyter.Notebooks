@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wilsoncg/Jupyter.Notebooks/master?urlpath=%2Fnotebooks%2FXPlot.ipynb)
+
 # .NET Interactive Docker image
 
 This folder contains a Dockerfile that generates an image with the latest .NET Interactive and Jupyter. This lets you try out .NET Interactive's Jupyter experience without needing to install Jupyter directly.
