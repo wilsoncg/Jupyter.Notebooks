@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wilsoncg/Jupyter.Notebooks/master?urlpath=%2Fnotebooks%2FXPlot.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wilsoncg/Jupyter.Notebooks/net5?urlpath=%2Fnotebooks%2FXPlot.ipynb)
 
 # .NET Interactive Docker image
 
